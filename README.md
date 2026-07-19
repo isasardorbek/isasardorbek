@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isasardorbek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python backend 
+- 👀 I’m interested in coding, networking
+- 🌱 I’m currently learning linux, networking, Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sardorbekisakulov720@gmail.com
 - 😄 Pronouns: he
